@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository
+i like github, i'm a young african
